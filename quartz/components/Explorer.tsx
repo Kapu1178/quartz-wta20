@@ -129,20 +129,12 @@ export default ((userOpts?: Partial<Options>) => {
         <template id="template-folder">
           <li>
             <div class="folder-container">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
-                viewBox="5 8 14 8"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="folder-icon"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
+            <svg 
+              viewBox="0 0 100 100"
+              class="folder-icon"
+            >
+              <path d="M43.75 12.5l12.5 12.5h43.75v68.75H0V12.5z" fill="currentColor"/>
+            </svg>
               <div>
                 <button class="folder-button">
                   <span class="folder-title"></span>

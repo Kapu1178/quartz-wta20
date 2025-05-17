@@ -42,6 +42,10 @@
   --folder-text-color: rgb(188, 202, 216);
   --folder-text-active-color: rgb(188, 202, 216);
 
+  --folder-icon-color: rgb(134, 55, 55);
+  --folder-icon-open-color: rgb(224, 88, 88);
+
+
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
@@ -215,20 +219,25 @@ button.desktop-explorer {
 }
 
 .folder-icon {
-  margin-right: 5px;
-  color: var(--secondary);
+  margin-right: 0.5em;
+  color: var(--folder-icon-open-color);
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
   flex-shrink: 0;
+  height: 14px;
+  width: 14px;
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
-  transform: rotate(-90deg);
+  color: var(--folder-icon-color);
+  &:hover {
+    color: var(--file-text-active-color);
+  }
 }
 
 .folder-icon:hover {
-  color: var(--tertiary);
+  color: var(--file-text-active-color);
 }
 
 .explorer {
