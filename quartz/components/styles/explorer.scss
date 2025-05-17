@@ -26,7 +26,19 @@
   }
 }
 
+.explorer-toggle {
+  h2 {
+    font-family: var(--bodyFont);
+  }
+  svg {
+    color: var(--tertiary);
+  }
+}
+
 .explorer {
+  --file-text-color: #bccab8;
+  --file-text-active-color: #e5ebee;
+
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
@@ -97,7 +109,7 @@ button.desktop-explorer {
   text-align: left;
   cursor: pointer;
   padding: 0;
-  color: var(--dark);
+  color: var(--file-text-color);
   display: flex;
   align-items: center;
 
@@ -120,14 +132,14 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
-    & li > a {
-      color: var(--tertiary); // File links
-      // opacity: 0.75;
+    & li > a { // File links
+      color: var(--file-text-color);
+      font-weight: normal;
       pointer-events: all;
 
       &.active {
-        // opacity: 1;
-        color: var(--tertiary);
+        font-weight: bold;
+        color: var(--file-text-active-color);
       }
     }
   }
@@ -157,7 +169,7 @@ button.desktop-explorer {
   user-select: none;
 
   & div > a {
-    color: var(--dark); // Folder link color
+    color: #bccab8; // Folder link color
     font-family: var(--bodyFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
@@ -166,7 +178,7 @@ button.desktop-explorer {
   }
 
   & div > a:hover {
-    color: var(--tertiary);
+    color: var(--file-text-active-color);
   }
 
   & div > button {
@@ -200,6 +212,14 @@ button.desktop-explorer {
   transition: transform 0.3s ease;
   backface-visibility: visible;
   flex-shrink: 0;
+}
+
+.folder-title {
+  color: var(--file-text-color);
+
+  &:hover {
+    color: var(--file-text-active-color) !important;
+  }
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
