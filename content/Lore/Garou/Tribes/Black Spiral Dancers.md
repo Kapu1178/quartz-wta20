@@ -1,0 +1,2 @@
+# War of Tears
+The War of Tears was a war between the European and Australian Kinfolk. The European Garou easily wiped out the Australian Bunyip, after which the Black Spiral Dancers revealed their role in the war.

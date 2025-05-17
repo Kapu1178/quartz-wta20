@@ -1,0 +1,1 @@
+Gaia's origins and purpose varies by who is telling you. She is not directly tied to the Triat, but may be a spawn of them.
