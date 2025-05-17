@@ -140,9 +140,10 @@ button.desktop-explorer {
       font-weight: normal;
       pointer-events: all;
 
-      &.active {
+      &.active,
+      &:hover {
         font-weight: bold;
-        color: var(--file-text-active-color);
+        color: var(--file-text-active-color) !important;
       }
     }
   }
@@ -218,10 +219,10 @@ button.desktop-explorer {
 }
 
 .folder-title {
-  color: var(--file-text-color);
+  color: var(--folder-text-color);
 
   &:hover {
-    color: var(--file-text-active-color) !important;
+    color: var(--folder-text-active-color) !important;
   }
 }
 
