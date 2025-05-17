@@ -11,3 +11,4 @@
 | 8         | 5%              | No, but will rationalize | Curiosity: These people are dangerous, because they remember what they saw (more-or-less), and they might well investigate the matter further.                      |
 | 9         | 1.5%            | No                       | Bloodlust: This human refuses to take anymore. She is afraid but angry, and she will remember the Garou and probably even try to hunt it down.                      |
 | 10        | 0.5%            | No                       | No reaction: The human is not the slightest bit afraid or bothered by the Garou. Even Kinfolk aren’t this stoic, so Garou tend to be very suspicious of such folks. |
+*For the lore explanation, see [[Lore/Humanity/General#Delirium|Delirium]].*
