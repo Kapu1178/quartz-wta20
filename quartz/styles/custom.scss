@@ -1,3 +1,47 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.table-container {
+  overflow-x: auto;
+
+  & > table {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-collapse: collapse;
+	box-sizing: border-box;
+
+    th,
+    td {
+      min-width: 75px;
+    }
+
+	th {
+		background-color: #652121;
+		color: rgb(229, 235, 238);
+		font-family: "Inter";
+
+		&:nth-child(even) {
+			background-color: darken(#652121, 10%);
+		}
+	}
+
+	tr {
+		border-bottom: 2px solid rgb(128, 128, 128);
+		
+		&:last-child {
+			border-bottom: none;
+		}
+	}
+
+	td {
+		border-right:2px solid rgb(128, 128, 128);
+		&:last-child {
+			border-right: none;
+		}
+	}
+
+    & > * {
+      line-height: 2rem;
+    }
+  }
+}
