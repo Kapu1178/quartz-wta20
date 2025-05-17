@@ -16,12 +16,14 @@ interface FolderContentOptions {
    */
   showFolderCount: boolean
   showSubfolders: boolean
+  showDates: boolean
   sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
+  showDates: true,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -79,7 +81,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
             return {
               slug: node.slug,
-              dates: getMostRecentDates(),
+              dates: options.showDates ? getMostRecentDates() : undefined,
               frontmatter: {
                 title: node.displayName,
                 tags: [],
