@@ -1,6 +1,6 @@
 
 ## Concord
-The Garou left Humanity to their on devices, instead opting to control them more subtly. They separated their societies, and created the Western Concordait. Humanity has since consciously forgotten about them, but the supernatural [[Rage Across Boston/Lore/Humanity/General#Delirium|Delirium]] remains.
+The Garou left Humanity to their on devices, instead opting to control them more subtly. They separated their societies, and created the Western Concordait. Humanity has since consciously forgotten about them, but the supernatural [[Lore/Humanity/General#Delirium|Delirium]] remains.
 
 # Prophecies of Shadow
 In 1230, a Red Talon prophet named Songs of Shadow emerged from the [[The Umbra|Umbra]], and travelled across Europe delivering prophecies. Each of the ten tribes received a prophecy. At the time, they were deemed unimportant and unclear, as they were told to be related to future events. Historians of the [[Silver Fangs]] and [[Shadow Lords]] claim to have transcriptions of all ten. However, none of the tribes can agree they ever came to pass, or if they are even real. Some Garou believe the answers to the war do not lie in the prophecies. 

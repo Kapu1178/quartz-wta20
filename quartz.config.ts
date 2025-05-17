@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "kapu1178.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian", ".trash", "Storyteller"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
