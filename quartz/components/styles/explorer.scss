@@ -36,8 +36,11 @@
 }
 
 .explorer {
-  --file-text-color: #bccab8;
-  --file-text-active-color: #e5ebee;
+  --file-text-color: rgb(188, 202, 216);
+  --file-text-active-color: rgb(229, 235, 238);
+
+  --folder-text-color: rgb(188, 202, 216);
+  --folder-text-active-color: rgb(188, 202, 216);
 
   display: flex;
   flex-direction: column;
@@ -168,17 +171,17 @@ button.desktop-explorer {
   align-items: center;
   user-select: none;
 
-  & div > a {
-    color: #bccab8; // Folder link color
+  & div > a { // Folder links
+    color: var(--folder-text-color);
     font-family: var(--bodyFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
-  }
 
-  & div > a:hover {
-    color: var(--file-text-active-color);
+    &:hover {
+      color: var(--folder-text-active-color);
+    }
   }
 
   & div > button {
