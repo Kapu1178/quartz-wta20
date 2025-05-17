@@ -10,35 +10,42 @@
     border-collapse: collapse;
 	box-sizing: border-box;
 
-    th,
-    td {
-      min-width: 75px;
-    }
-
-	th {
+	thead {
 		background-color: #652121;
-		color: rgb(229, 235, 238);
-		font-family: "Inter";
-
-		&:nth-child(even) {
-			background-color: darken(#652121, 10%);
-		}
-	}
-
-	tr {
-		border-bottom: 2px solid rgb(128, 128, 128);
-		
-		&:last-child {
+		tr {
 			border-bottom: none;
 		}
 	}
 
-	td {
-		border-right:2px solid rgb(128, 128, 128);
-		&:last-child {
-			border-right: none;
+	tbody {
+		tr {
+			border-bottom: none;
+			
+			&:nth-child(odd) {
+				background-color: rgba(6, 8, 12, 0.376);
+			}
+			
+			td:nth-child(2n+2) {
+				background-color: rgba(6, 8, 12, 0.376);
+			}
+
 		}
 	}
+
+	th {
+		color: rgb(229, 235, 238);
+		font-family: "Inter";
+		border-bottom: none;
+
+		&:nth-child(even) {
+			background-color: rgba(6, 8, 12, 0.376); //#06080c60
+		}
+	}
+
+	th,
+    td {
+      min-width: 75px;
+    }
 
     & > * {
       line-height: 2rem;
