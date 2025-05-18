@@ -63,9 +63,12 @@
 
 .page {
 	& article {
-		p > strong {
-			color: rgb(177, 126, 126);
-			font-weight: 800;
+		p,
+		li {
+			strong {
+				color: rgb(177, 126, 126);
+				font-weight: 900;
+			}
 		}
 	}
 }
