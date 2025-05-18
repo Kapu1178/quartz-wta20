@@ -60,3 +60,18 @@
 		hyphens: none;
 	}
 }
+
+.page {
+	& article {
+		p > strong {
+			color: rgb(177, 126, 126);
+			font-weight: 800;
+		}
+	}
+}
+
+tbody,
+li,
+p {
+  line-height: 1.5rem;
+}
