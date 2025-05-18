@@ -139,11 +139,15 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
-    .file-container {
+    .file-item {
       &:has(a.active),
       &:has(a:hover) {
         background: rgb(101, 33, 33);
       }
+    }
+  
+    .file-container {
+      // padding-left: 0.8rem;
     }
 
     .file-title {
@@ -189,6 +193,8 @@ button.desktop-explorer {
     font-weight: 800; // ExtraBold
     line-height: 1.5rem;
     display: inline-block;
+    padding-left: 0.8em;
+    margin-left: -7px;
 
     &:hover {
       color: var(--folder-text-active-color) !important;
@@ -219,7 +225,6 @@ button.desktop-explorer {
 }
 
 .folder-icon {
-  margin-right: 0.5em;
   color: var(--folder-icon-open-color);
   cursor: pointer;
   transition: transform 0.3s ease;
