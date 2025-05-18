@@ -4,7 +4,7 @@ A Garou that has either not experienced First Change or has not accepted her pla
 ## Crinos
 The War form.
 
-### Hispo
+## Hispo
 The form of Garou that is similar to a Dire Wolf.
 
 ## Homid
