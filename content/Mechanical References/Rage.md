@@ -1,3 +1,26 @@
+## Rage Rolls
+At the storyteller's discretion, any of the following may call for a Rage roll:
+* Embarrassment/humiliation (e.g botching an important roll)
+* Any strong emotion (lust/envy)
+* Extreme hunger
+* Confinement
+* Helplessness
+* Being taunted by a superior enemy
+* Large quantities of silver in the area
+* Being wounded
+* Seeing a packmate wounded
+
+The difficulty of the roll is determined by the moon phase. Fera always use difficulty 6, unless otherwise stated.
+
+| Moon Phase | Difficulty |
+| ---------- | ---------- |
+| New        | 8          |
+| Crescent   | 7          |
+| Half       | 6          |
+| Gibbous    | 5          |
+| Full       | 4          |
+
+
 ## Using Rage
 Rage points are spent at the beginning of a turn, in the declaration stage. You can spend Rage only in times of stress.
 
