@@ -20,13 +20,17 @@ The difficulty of the roll is determined by the moon phase. Fera always use diff
 | Gibbous    | 5          |
 | Full       | 4          |
 
-
 ## Using Rage
 Rage points are spent at the beginning of a turn, in the declaration stage. You can spend Rage only in times of stress.
 
 - **Frenzy:**  Frenzy is the violent outburst, the untamed savagery, the animal instinct for blood and brutality that lurks in the heart of every werewolf. Whenever a player gets four or more successes on a Rage roll, the character enters a frenzy. See Frenzy on p. 261 for more information on the causes and resolutions of frenzies.
   
 - **Extra Actions:** A player can spend Rage to give her character extra actions in a single turn. However, a Garou cannot spend more Rage points for actions in a turn than half of her permanent Rage rating. See p. 266.
+>[!info]+ Extra Action Restrictions
+> * **Rage Score:** Within a single turn, a player can spend up to half his character’s permanent Rage score in Rage points (rounded up) when getting extra actions. A Garou with Rage 5, for example, can spend three Rage for three extra actions that turn. The player could spend more Rage in order to ignore stunning or pain, but cannot get more than three extra actions that turn.
+> * **Timing:** Rage spent for extra actions must be declared at the beginning of the turn. Other Rage expenditures can be declared at any point within that turn.
+> * **Speed:** In a single turn, a character can take only as many “normal” extra actions as she has dots in either her Dexterity or Wits, whichever is lower. A Dexterity 4/Wits 3 Garou, for instance, could take only three extra actions without incurring a penalty. If her player chooses to exceed that limit, she suffers a +3 penalty to all difficulties that turn. Essentially, the werewolf is trying to go too fast for her body (Dexterity) or mind (Wits) to process. If she happens to be in frenzy, however, her Rage actions are limited only by her Dexterity, as she’s pretty much “beyond her wits” to start with.
+
 
 - **Changing Forms:** A Player may spend a Rage point for his character to change instantly to any form he desires, without having to roll Stamina + Primal-Urge. See p. 285.
   
