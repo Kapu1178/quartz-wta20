@@ -52,13 +52,13 @@ The most basic attack utilized by creatures with teeth, biting involves… well,
 ### Claw
 Ripping his target with sharp talons, a werewolf inflicts **aggravated** damage on his opponent when in Crinos and Hispo form, bashing damage in Glabro or Lupus form.
 
-|             |                                                    |
+|             |                                                   |
 | ----------- | ------------------------------------------------- |
-| Usable By   | Crinos, Hispo, Lup                                 |
-| Roll        | Dexterity + Br                                     |
-| Difficulty                                                       |
-| Damage      | Strengt                                            |
-| Damage  Aggravated (Crinos/Hispo) / Lethal (Glabro/Lupus) po) /  |
+| Usable By   | Glabro, Crinos, Hispo, Lupus                      |
+| Roll        | Dexterity + Brawl                                 |
+| Difficulty  | 6                                                 |
+| Damage      | Strength + 2                                      |
+| Damage Type | Aggravated (Crinos/Hispo) / Lethal (Glabro/Lupus) |
 ### Disarm
 The attacker uses her weapon to knock her opponent’s weapon from his hand. To succeed, the attacker rolls `Dexterity + Melee` at +1 to her usual difficulty; if her successes exceed her opponent’s Strength score, he drops that weapon. If she doesn’t score enough successes to disarm the opponent, she still inflicts her usual damage. If she botches that roll, she loses her own weapon instead. A brave or desperate attacker can try to disarm an armed opponent with her bare hands. In this case, the roll
 is `Dexterity + Brawl`, the difficulty is 8, and she subtracts one die from her usual attack dice pool.
