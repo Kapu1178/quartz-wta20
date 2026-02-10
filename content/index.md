@@ -1,8 +1,8 @@
 ---
-title: "Werewolf: The Apocalypse 20th Anniversary Edition"
+title: "A World of Darkness"
 ---
 
-A transcription of the W20 corebook into an easy to use website powered by Quartz.
+A hub for Classic World of Darkness content, primarily based upon the 20th Anniversary editions.
 
 * [[Lore/]] contains lore information about the setting.
 * [[Mechanical References/]] contains rules and gameplay information.
