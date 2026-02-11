@@ -8,7 +8,7 @@ In [[Combat]], each turn, the Garou will roll `Stamina` with difficulty 8. The r
 ### Remaining Active
 See [[Rage#Using Rage]].
 
-## Mortals
+## Humans
 
 ### Bashing
 Bashing damage up to the Wounded level can be cared for without medical skill; these wounds heal on their own, without treatment. Bashing damage beyond Wounded may have deeper consequences. A mortal’s vision or hearing may be altered due to a concussion, she may suffer excruciating pain from internal bruising, or she may experience some other extreme discomfort. These effects can be negated if the mortal receives adequate medical attention.
@@ -40,3 +40,5 @@ If the individual is at Maimed or higher, he may recover with rest over the time
 
 ## Vampires
 A level of aggravated damage may be healed only with a full day of rest and the expenditure of five blood points (though a vampire may, at the end of the full day’s rest, cure additional aggravated health levels by spending an additional five blood points and one Willpower point per extra aggravated health level to be healed). Worst of all, a vampire who loses his last health level due to aggravated damage meets Final Death — his eternal life ends at last, and he goes to whatever awaits him beyond the grave.
+
+***Vampires do not naturally regain health and must expend [[Blood Pool]] in order to do so.***
