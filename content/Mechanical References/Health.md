@@ -1,15 +1,15 @@
 
-| Health Level  | Dice Penalty | Movement Penalty                                                                                                                                                                                        |
-| ------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bruised       | 0            | Character is bruised or winded, but suffers no dice penalties due to damage.                                                                                                                            |
-| Hurt          | -1           | Character is superficially hurt, but suffers no movement hindrances.                                                                                                                                    |
-| Injured       | -1           | Character has suffered minor injuries, and movement is mildly inhibited (halve maximum running speed).                                                                                                  |
-| Wounded       | -2           | Character has suffered significant damage. He can walk, but he cannot run. At this level, a character may not move and attack.                                                                          |
-| Mauled        | -2           | Character is badly injured, and may only stagger (about three yards or meters per turn)                                                                                                                 |
-| Crippled      | -5           | Character is catastrophically injured, and can only crawl (about one yard or meter per turn).                                                                                                           |
-| Incapacitated |              | Character is incapable of movement and likely unconscious. A character who takes any more damage at this level dies.<br><br>(VTM) Incapacitated vampires with no blood in<br>their bodies enter torpor. |
-| (VTM) Torpor  |              | Character enters a deathlike trance. He may do<br>nothing, not even spend blood, until a certain period of time<br>has passed                                                                           |
-| Dead          |              | Character is dead.                                                                                                                                                                                      |
+| Health Level     | Dice Penalty | Movement Penalty                                                                                                                                                                                        |
+| ---------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bruised          | 0            | Character is bruised or winded, but suffers no dice penalties due to damage.                                                                                                                            |
+| Hurt             | -1           | Character is superficially hurt, but suffers no movement hindrances.                                                                                                                                    |
+| Injured          | -1           | Character has suffered minor injuries, and movement is mildly inhibited (halve maximum running speed).                                                                                                  |
+| Wounded          | -2           | Character has suffered significant damage. He can walk, but he cannot run. At this level, a character may not move and attack.                                                                          |
+| Mauled           | -2           | Character is badly injured, and may only stagger (about three yards or meters per turn)                                                                                                                 |
+| Crippled         | -5           | Character is catastrophically injured, and can only crawl (about one yard or meter per turn).                                                                                                           |
+| Incapacitated    |              | Character is incapable of movement and likely unconscious. A character who takes any more damage at this level dies.<br><br>(VTM) Incapacitated vampires with no blood in<br>their bodies enter torpor. |
+| (VTM) [[Torpor]] |              | Character enters a deathlike trance. He may do<br>nothing, not even spend blood, until a certain period of time<br>has passed                                                                           |
+| Dead             |              | Character is dead.                                                                                                                                                                                      |
 ## Incapacitated
 <div style='text-indent:4em'>
 The stage before death, incapacitation differs from simple unconsciousness. An incapacitated character is critically wounded and near death.
@@ -28,3 +28,9 @@ If a character is at the Incapacitated health level and takes one more level of 
 
 >[!info]+ Werewolf
 >An incapacitated werewolf may also be killed by massive amounts of bashing trauma — any blow that deals two or more health levels of bashing damage is enough to kill a dying werewolf. This damage overwhelms the Garou’s regenerative capabilities.
+>
+
+>[!info]+ Vampire
+> If a vampire is at the Incapacitated health level or in torpor and takes one more level of aggravated damage, he dies permanently. A player’s character who meets Final Death is removed from the game; the player must create a new character if she wishes to continue play.
+> 
+> An incapacitated or torpid vampire may also be sent to Final Death through massive amounts of bashing or lethal trauma (decapitated, trapped under a 10-ton rock, fed into a wood chipper, caught at ground zero of an explosion, crushed by deep-sea pressure, etc.). Typically, this damage must be enough to destroy or dismember the corpse beyond repair.

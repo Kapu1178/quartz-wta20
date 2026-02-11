@@ -31,6 +31,10 @@ Really successful attacks inflict more damage. For each success *above the first
 ## Soaking
 To soak damage, roll `Stamina` against the difficulty determined by the damage type. Each success subtracts 1 level of damage from the attack.
 
+>[!info]+ Vampire
+>Vampires add their Fortitude to their soak roll. Following the soak roll, any bashing damage taken is halved (rounded down). Additionally, vampires may soak Lethal damage.
+
+
 # Status Effects
 
 * **Blindness:** A character who's been blinded by injury or darkness cannot [[#Dodging|Dodge]], [[#Parrying|Parry]], or [[#Blocking|Block]]. All other actions add two to the difficulty.
