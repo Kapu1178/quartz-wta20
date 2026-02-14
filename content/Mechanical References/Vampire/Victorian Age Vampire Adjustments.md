@@ -2,7 +2,7 @@
 ### Ride (Drive)
 
 * \* Novice: Anything but routine travel and care strikes you as work.
-* \\* Practiced: You can manage a gallop, a difficult turn, or a small jump.
+* \*\* Practiced: You can manage a gallop, a difficult turn, or a small jump.
 * \*\*\* Competent: You ride in hunts and foul weather, perform splendid jumps and avoid saddle sores.
 * \*\*\*\* Expert: You are as comfortable in the saddle as in the salon.
 * \*\*\*\*\* Master: Dashing stunts and horseback are your *raison d'être*.
