@@ -14,6 +14,7 @@ An "action" is specifically something performed by a character that may have an 
 An instinctual, low-duration action that does not require a roll and does not consume an action.
 * Soaking damage
 * Spending [[Rage]]
+* Spending [[Blood Pool]]
 
 ## Ratings
 

@@ -2,8 +2,12 @@ Vampires must subtract one blood point from their blood pools every night, wheth
 
 Blood pool also affects Self-Control (or Instinct) rolls, which come into play when a character’s frenzy becomes imminent. A player may never roll more dice for a Self-Control or Instinct roll than the character has blood pool. For example, if a character has only two blood points left, her player may roll only two dice for a Self-Control roll, even if the character’s Self Control rating is 4. Voracious vampires just don’t fight the Beast very well.
 
+Unless otherwise stated, expending blood pool is considered an Automatic Action
+
 ## Spending Blood Pool
 * **Healing** - A vampire may spend one blood point to heal one normal (bashing or lethal) health level of damage. Characters must be resting and relatively inactive for this healing to take place, though this recovery is rapid: One blood point per turn may be spent to heal one health level, though vampires of lower Generations may heal as many health levels per turn as they can spend blood points.
+  
+* **Healing (Combat)** - A vampire may expend blood points to heal during their turn. Doing so requires the entire turn. Succeeding a `Stamina + Survival` (difficulty 8) roll will enable the character to perform other actions in addition to the healing. Failing this roll wastes the used blood points with no effect. A botch incurs an additional blood point lost, deals one point of damage. The damage type of this damage is open to Storyteller discretion.  
   
 * **Physical Attributes** - A player may spend one blood point to increase a single Physical Attribute (Strength, Dexterity, Stamina) by one dot for the duration of the scene. The player must announce at the beginning of the turn that he is doing this. A player may spend as many blood points on increasing Physical Attributes as the vampire may use in a turn (based upon Generation), but may only freely increase these Traits up to **one higher** than their generational maximum (i.e., a Tenth-Generation vampire may increase Traits to a maximum of 6). With effort, a character may increase a Physical Attribute to above this limit, but each dot above the limit lasts for only three turns after the character stops spending blood. This enables vampires to perform truly amazing physical feats, such as throwing cars, moving preternaturally quickly, and withstanding blows that would fell trees. **Note:** No character may increase Physical Attributes above 10.
   

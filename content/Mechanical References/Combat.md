@@ -27,6 +27,8 @@ Really successful attacks inflict more damage. For each success *above the first
 | Bashing    | /       | 6                                                        | Blunt force trauma, fists, clubs, table legs. Even normal humans heal this fairly quickly.                                                  |
 | Lethal     | X       | 6 (Supernaturals)<br>8 (Exceptional humans)              | Sharp weapons, firearms, spiked clubs, barbed wire, chainsaws, so on. Most living things have a hard time healing lethal damage.            |
 | Aggravated | \*      | 6 (Garou in non-breed form, and not inflicted by silver) | Severe injury. Garou claws/fangs, vampire fangs, toxic waste, fire, acid, silver on Garou. **Aggravated damage cannot be healed by Garou**. |
+>[!info]+ Vampire
+>Bullets are considered Bashing towards Vampires, unless aimed for the head or heart (difficulty 8).
 
 ## Soaking
 To soak damage, roll `Stamina` against the difficulty determined by the damage type. Each success subtracts 1 level of damage from the attack.
