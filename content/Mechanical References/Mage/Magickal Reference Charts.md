@@ -29,6 +29,7 @@
 | **Mighty Feat**<br>(Creating simple life-forms, blowing down walls, conjuring strange entities, commanding a mob)                                                            | Five to Ten         |
 | **Outlandish Feat**<br>(Creating complex life-forms, blowing up buildings, summoning Otherworldly creatures, turning a mob into your personal<br>zombie squad                | Ten to Twenty       |
 | **Godlike Feat**<br>(Rewriting your own Pattern permanently, incinerating cities, conjuring monstrous hordes, enslaving hundreds of people)                                  | Twenty and beyond   |
+
 **Notes**
 * Personal effects generally only require one success.
 * Effects that affect someone or something else generally require at least two successes.
