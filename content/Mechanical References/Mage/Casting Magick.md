@@ -10,6 +10,8 @@ Based on your mage's *focus*, and *Spheres*, figure out if you can create the Ef
 * How does your character focus belief and practice into making it happen?
 * Which tools and/ or rituals are you using?
 * How long does it take?
+* How many targets does it affect?
+* How long does it last?
 * Is what you’re doing vulgar or coincidental?
 * Are any allies assisting you?
 * Do you have any mundane skills that might help?
