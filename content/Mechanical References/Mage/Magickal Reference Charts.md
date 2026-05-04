@@ -146,6 +146,58 @@ Only vs. mental illusions. Roll [[Willpower]], five successes or more.
 | Probable           | 7          |
 | Likely             | 8          |
 | Too damned likely! | 9          |
+## Feats of Illusion Magick
+
+| Successes | Illusion                                                         |
+| --------- | ---------------------------------------------------------------- |
+| One       | Simple, one sensation (sight, sound, scent, etc.)                |
+| Two       | Simple and moving, one sensation.                                |
+| Three     | Complex and stationary, or simple and<br>moving (two sensations) |
+| Four      | Complex and moving (several sensations)                          |
+| Five      | Complex and reflexive (multiple sensations)                      |
+| Six+      | Complex and interactive (full sensations)                        |
+
+### Types of Illusions
+* Mental - Mind 2+ (only in target’s mind; usually coincidental)
+* "Physical" - Forces 2+ / Prime 2+ visible to all witnesses; manipulate elemental forces to manifest sensory components)
+* Immersive - Forces 4+ / Prime 4+ (“holodeck” level of apparent reality)
+
+### Damage and Duration
+Illusions don’t normally inflict damage unless “damage levels” are purchased as described below. Illusions may indirectly lead witness into dangerous situations, as described under Environmental Hazards.
+
+* Mind - Bashing damage
+* Mind 3 / Life 3 - Aggravated damage
+* Forces - Bashing or Lethal, depending on elements involved.
+
+Default Duration is one scene. Additional levels of Duration, or “damage levels” of two levels of damage, may be purchased for one additional success, each level, above the Base. One day + two levels of damage, for example, would require two additional successes.
+
+## Feats of Time Magick
+
+| Successes | Feat                                                                                          |
+| --------- | --------------------------------------------------------------------------------------------- |
+| Three     | Step out of time / minor aging (Difficult feat)                                               |
+| Four      | Take one other character out of time / noticeable aging (Impressive feat)                     |
+| Five      | Take several characters, or a roughly 10’ x 10’ area, out of time/ severe aging (Mighty feat) |
+| Eight     | Take larger area (25’ x 25’) out of time/ age to decrepitude (Mighty feat)                    |
+| 10-20     | Take an even larger area out of time/ age to brink of destruction (Outlandish feat)           |
+| 20+       | Freeze or isolate very large and dynamic area or event / age out of existence (Godlike feat)  |
+**Notes**
+* Feats that rewind time add 3+ to the difficulty.
+* Feats that affect time beyond personal perceptions (viewing through time, for instance) are almost always vulgar magick.
+
+## Time Sphere Timelines
+
+| Successes | Effect Timespan    |
+| --------- | ------------------ |
+| One<br>   | Within a year      |
+| Two<br>   | Five years         |
+| Three<br> | Twenty years       |
+| Four      | Fifty years        |
+| Five      | One hundred years  |
+| Six+      | Five hundred years |
+| 10+       | 1000 years or more |
+**Notes**
+* Timespan limits apply only to looking or reaching through time, not to the duration of a given Effect.
 
 ## Paradox Backlash Roll
 The Storyteller rolls one die for each point of Paradox in the character's current Paradox pool, against difficulty 6.
@@ -179,3 +231,60 @@ The Storyteller rolls one die for each point of Paradox in the character's curre
 | 4     | Deadly fanaticism                                            | Mindscape or constant hobgoblins         | Violent sociopathy             |
 | 5     | Fanatical drone                                              | Catatonia or dementia                    | Sadistic killer                |
 | 6     | Marauder                                                     | Marauder                                 | Marauder                       |
+## Mindscape Rolls
+
+| Attempted Task           | Dice Pool                              |
+| ------------------------ | -------------------------------------- |
+| Meditate into mindscape  | Perception + Meditation                |
+| Meditate into Demesne    | Perception + Demesne                   |
+| Reduce time in mindscape | Wits + Enigmas or Perception + Demesne |
+| Communicate to outside   | Willpower                              |
+**Notes**
+* Difficulty for all is Quiet Level + 3
+
+## Aura Colors and Textures
+
+| Emotional State          | Color    |
+| ------------------------ | -------- |
+| Bitterness               | Brown    |
+| Calm, Devotion           | Blue     |
+| Change, Transformation   | Violet   |
+| Compassion, Affection    | Pink     |
+| Empathy, Sensitivity     | Green    |
+| Enthusiastic, Idealistic | Yellow   |
+| Fear                     | Orange   |
+| Fury                     | Dark Red |
+| Pain, Hatred             | Black    |
+| Passion, Anger           | Red      |
+| Sadness                  | Silver   |
+| Uncertainty, Depression  | Gray     |
+
+| Condition               | Texture                    |
+| ----------------------- | -------------------------- |
+| Arousal                 | Bright                     |
+| Corruption              | Pulsating                  |
+| Dementia, Quiet         | Flickering                 |
+| Excitement              | Crackling                  |
+| Faerie                  | Rainbow highlights         |
+| Marauder                | Hypnotic, swirling         |
+| Fanatical               | Intense colors             |
+| Ghost                   | Weak, faded                |
+| Magic / Mage            | Sparkling                  |
+| Nephandus               | Wouldn’t you like to know? |
+| Sickness, Dying         | Fading                     |
+| Spirituality, Awareness | Gold                       |
+| Truth, Purity, Faith    | White                      |
+| Vampire                 | Pale                       |
+| Werecreature            | Bright, vibrant            |
+## Quintessence Amounts
+
+| Subject                         | Quintessence / Points                 |
+|---------------------------------|----------------------------------------|
+| Small animal (bird, cat, fox)   | 5                                      |
+| Large animal (wolf, horse, human) | 10                                   |
+| Powerful animal (tiger, elephant, whale) | 15–25                        |
+| Changeling                      | 20–30                                  |
+| Mage                            | 10–30 (depending on Quintessence Trait) |
+| Spirit                          | Essence Trait                           |
+| Vampire                         | 10+ Blood Pool Trait                    |
+| Werecreature                    | 20+ Gnosis Trait                        |
