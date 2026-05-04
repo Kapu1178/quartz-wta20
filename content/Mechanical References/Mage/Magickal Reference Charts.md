@@ -63,6 +63,7 @@
 | Mage in conflict with Avatar                                       | +1 to +3                                         |
 | Domino Effect                                                      | +1 per two coincidences after first; see p. 539. |
 | Outlandish to godlike feat                                         | +1 to +3                                         |
+
 **Notes**
 * Maximum net modifier of -3 or +3.
 * Minimum difficulty of 3, maximum of 10. If you employ the Thresholds option, max difficulty is 9; in the latter case, extra modifiers add to threshold, requiring one additional success per +1 difficulty modifier.
@@ -88,6 +89,7 @@
 | Four      | Eight levels            | One story            |
 | Five      | Ten levels              | Six months           |
 | Six+      | Number of Successes x 2 | Storyteller's option |
+
 **Notes**
 *Damage* also reflects the number of health levels healed by the Life Sphere, or the points of Quintessence channeled by the Prime sphere.
 
@@ -100,6 +102,7 @@ To preserve game balance, the Storyteller may choose to cap damage at 20 health 
 | Bashing     | Mind Sphere Effects.                                                                                                                                                                                        |
 | Lethal      | Most other Sphere Effects.                                                                                                                                                                                  |
 | Aggravated  | Any sphere when charged with Prime 2 and a point of Quintessence.<br><br>Fire or electrical Forces Effects.<br><br>Vulgar Entropy, Life, or Prime-based Effects that directly disrupt the target's Pattern. |
+
 **Notes**
 * Correspondence and Time inflict no damage unless they're combined with other Spheres.
 * The Forces Sphere adds one automatic success to Damage.
@@ -181,6 +184,7 @@ Default Duration is one scene. Additional levels of Duration, or “damage level
 | Eight     | Take larger area (25’ x 25’) out of time/ age to decrepitude (Mighty feat)                    |
 | 10-20     | Take an even larger area out of time/ age to brink of destruction (Outlandish feat)           |
 | 20+       | Freeze or isolate very large and dynamic area or event / age out of existence (Godlike feat)  |
+
 **Notes**
 * Feats that rewind time add 3+ to the difficulty.
 * Feats that affect time beyond personal perceptions (viewing through time, for instance) are almost always vulgar magick.
@@ -196,6 +200,7 @@ Default Duration is one scene. Additional levels of Duration, or “damage level
 | Five      | One hundred years  |
 | Six+      | Five hundred years |
 | 10+       | 1000 years or more |
+
 **Notes**
 * Timespan limits apply only to looking or reaching through time, not to the duration of a given Effect.
 
@@ -239,6 +244,7 @@ The Storyteller rolls one die for each point of Paradox in the character's curre
 | Meditate into Demesne    | Perception + Demesne                   |
 | Reduce time in mindscape | Wits + Enigmas or Perception + Demesne |
 | Communicate to outside   | Willpower                              |
+
 **Notes**
 * Difficulty for all is Quiet Level + 3
 
