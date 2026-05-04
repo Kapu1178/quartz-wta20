@@ -62,3 +62,23 @@ If an outside party disrupts a ritual – say, by attacking the rite or distract
 
 ### Rituals and Paradox
 Magickal rituals stir up a lot of reality. And so, every roll after the first one adds one point of Paradox to the caster's total. If the ritual concludes successfully, then those extra points of Paradox go away. If the caster botches the ritual, however, then the Paradox backlash adds those additional points of Paradox onto the Paradox the mage would suffer to begin with.
+
+### Dodging and Resistance
+Generally, a successful Arete roll equals a successful Attack. Immediate effect, however, isn't always the case.
+
+### Dodging a Physical Attack
+Any physical attack (fireball, mystic blade, plasma bolt, etc.) directed at an essentially solid target (car, person, spirit, etc.) can be dodged if that target is capable of dodging the attack in question. As detailed in 
+
+As detailed under the [[Combat]] section, a `Dexterity + Athletics (or Acrobatics)` roll, difficulty 6, subtracts successes from an incoming attack. If the attacker still has more successes than the target, remaining successes determine how much damage is done… and if the attacker winds up with only one success left over, then there’s no damage at all.
+
+Really obvious attacks – lightning bolts, clouds of deadly gas, and so forth – are easy to see coming. Invisible ones – flesh-eating spirits, silent curses, Entropic ripples that collapse a bridge, that sort of thing – may be detected with a successful `Perception + Awareness` roll, difficulty 8.
+
+### Soaking Damage from Magickal Attacks
+Magickal attacks that unleash physical force – blades, bolts, storms, etc. – can be soaked like any other physical damage. The usual rules, presented in [[Combat#Soaking]], apply when soaking damage.
+
+All-out Reality-fucking, however, is hard to endure. Vulgar attacks of pure reality-alteration power (curses, transmutations, possession, etc.) cannot be soaked unless the target has countermagick or some other specific protection against the Effect in question.
+
+Mental attacks can be resisted, as shown above, but they cannot be soaked except by Willpower. And so, a Mind-based blast of psychic trauma hurts… a LOT.
+
+### Resisting Psychic Assaults
+Mind-control spells, mental commands, Social Conditioning, and so forth can be resisted by an unwilling target if she’s aware that she’s under attack. In such cases, a Willpower roll, difficulty 6, acts as the dodge for that assault, subtracting successes from the aggressor’s roll. If the character isn’t aware of that attack, however, she suffers the full Effect… which is the primary reason that Mind-savvy mages prefer to be subtle (“You have beautiful eyes…”) rather than overt (“You are in my power…”).
