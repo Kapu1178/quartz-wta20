@@ -41,6 +41,13 @@ The number of successes that you roll determines whether or not you succeed. If 
 * Did you botch? If so, take Paradox as described by the [[Magickal Reference Charts#Paradox Points Generated|Paradox Points Generated chart]]. 
 * Did you get more than five points of Paradox? If so, Storyteller may roll for backlash.
 
+## Range
+A typical Effect affects one target within the caster's clear sensory range without the use of Correspondence. If the spell is not targeted, such as an explosion or a storm, it reaches everyone within the area of effect.
+
+A target on the fringes of the mage's sensory range (under cover, far away, obscured by fog or forest) increases the difficulty of the mage's Arete roll by +1. A mage utilizing Correspondence can drastically expand their perception, often allowing them to ignore this penalty.
+
+If a target is entirely obscured, such as behind a barrier, or otherwise beyond reach of the caster's normal senses, Correspondence must be used in order to reach him. A song might affect someone who can't see the singer, for example, but it won't reach someone who cannot hear it unless the mage uses Correspondence to connect the song to it's intended target. Consult the [[Magickal Reference Charts#Correspondence Sphere Ranges|Correspondence Sphere Ranges chart]] for more information.
+
 ## Rituals, Rolls, and Extended Successes
 A ritual is defined as any Effect that requires multiple rolls. Any Magickal Effect may become a Ritual as the Storyteller permits. Some Effects are "instant" and cannot be extended into a ritual, such as glaring at someone and making them burst into flames.
 
