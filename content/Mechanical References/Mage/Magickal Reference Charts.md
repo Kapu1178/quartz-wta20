@@ -120,14 +120,18 @@ Under this optional rule, each additional success beyond the [[#Magickal Feats|B
 
 ## Correspondence Sphere Ranges
 
-| Successes | Range              | Connection                              |
-| --------- | ------------------ | --------------------------------------- |
-| One       | Line of sight      | Body sample                             |
-| Two       | Very familiar      | Close possession or companion           |
-| Three     | Familiar           | Possession or casual friend             |
-| Four      | Visited once       | Casual acquaintance or object used once |
-| Five      | Described location | Briefly touched or met object or person |
-| Six+      | Anywhere on Earth  | No connection                           |
+| Successes | Range                                        | Connection                              |
+| --------- | -------------------------------------------- | --------------------------------------- |
+| One       | Line of sight (Such as a cloaked technocrat) | Body sample                             |
+| Two       | Very familiar                                | Close possession or companion           |
+| Three     | Familiar                                     | Possession or casual friend             |
+| Four      | Visited once                                 | Casual acquaintance or object used once |
+| Five      | Described location                           | Briefly touched or met object or person |
+| Six+      | Anywhere on Earth                            | No connection                           |
+
+**Notes**
+* When casting Magick without the use of Correspondence, the range of an effect is limited to the mage's immediate non-magical perception.
+
 ## Teleportation Locations
 
 | Successes | Range                                     |
