@@ -130,7 +130,8 @@ Under this optional rule, each additional success beyond the [[#Magickal Feats|B
 | Six+      | Anywhere on Earth                            | No connection                           |
 
 **Notes**
-* When casting Magick without the use of Correspondence, the range of an effect is limited to the mage's immediate non-magical perception.
+* When casting Magick without the use of Correspondence, the range of an effect is limited to the mage's immediate non-magical perception. A sound-based effect, for example, would affect any target that hears it, without the use of Correspondence.
+
 
 ## Teleportation Locations
 

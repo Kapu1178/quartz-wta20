@@ -1,10 +1,30 @@
+## A Round in Combat
+1. **Initiative:** Roll `1d10` and add your `Dexterity + Wits`, this is your Initiative Rating. 
+2. **Declare Actions:** Beginning with the player with the *lowest* Initiative Rating, each player declares their action. This is done so that players with a higher Initiative Rating can react to "slower" characters. The player declares what action they would like to take, and determines the necessary dice pool(s) if applicable. (See [[Actions]])
+3. **Execute Actions:** Beginning with the player with the *highest* Initiative Rating, each player's declared action is rolled for if applicable. 
+   3a. **Resist Rolls:** If applicable, any defenders may roll to resist the performed action to affect the resolution. (See [[#Soaking]])
+   
+   3b. **Resolution:** The action is resolved, successes/failures play out, and damage is dealt. and the next action is executed. 
+
+**Notes**
+* At any time during the round, a player on the receiving end of an [[#Attack]] may roll Willpower at difficulty 6 or expend a Willpower point to "change their mind" and declare and execute an immediate [[#Defending|Defensive Action]], so long as they have not used their action this round. Characters with multiple actions may still perform other actions, so long as they have not used *all* of their actions.
+* Extra Actions gained from mechanics such as [[Rage]] or [[Spheres#Time|Time Magick]] are appended to the end of the Execute Order, as if they were the slowest player.
+  
 ## Attacking
 * For using guns, roll `Dexterity + Firearms`.
 * For using hand-held weapons, roll `Dexterity + Melee`.
 * For hands, claws, bodyweight, and so on, roll `Dexterity + Brawl`. Some attacks may instead use `Dexterity + Athletics`.
 
+### Targeting Modifiers
+
+| Size                   | Difficulty Modifier | Damage Modifier |
+| ---------------------- | ------------------- | --------------- |
+| Medium (e.g. a limb)   | +1                  | +1              |
+| Small (e.g. a hand)    | +2                  | +2              |
+| Precise (e.g. a joint) | +3                  | +3              |
+
 ## Defending
-Defensive actions are declared at any time prior to the opponent's attack, as long as the defender has an action to use. Alternatively, a [[Willpower]] point may be spent to forgo a planned action and instead take a defensive action. 
+Defensive actions are declared at any time prior to the opponent's attack, as long as the defender has an action to use. Alternatively, a [[Willpower]] point may be spent to forgo a planned action and instead take a defensive action. A defensive action may only be used for one given attack, and is "consumed" when used. If a character is being attacked multiple times in a given round, they will take the defensive action against the first one only, with the exception of [[#Desperate Defense]].
 
 ### Dodging
 Hopefully move out of harm's way. This action requires `Dexterity + Atheltics`. The difficulty depends on the distance required to be out of harm's way, and the nature of the attack in question. Dodging a hand-to-hand strike is easy, difficulty 5. Dodging firearms at close range however, would be incredibly difficult, if not impossible, difficulty 9 or 10. Each success on this roll subtracts one success from the attacker's roll. This, the defending character needs to roll at least as many successes as the attacker to get out of the way.
