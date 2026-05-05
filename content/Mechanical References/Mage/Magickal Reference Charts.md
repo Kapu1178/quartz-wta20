@@ -143,6 +143,16 @@ Under this optional rule, each additional success beyond the [[#Magickal Feats|B
 | Four      | Visited briefly.                          |
 | Five      | Heard or saw it described.                |
 | Six+      | Teleporting totally blind.                |
+## Forces and Weight
+
+| Forces Sphere Level | Weight                                                                              |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| One                 | Nothing                                                                             |
+| Two                 | A single human-sized character or roughly equivalent mass, no more than 300 pounds. |
+| Three               | Two tons or so.                                                                     |
+| Four                | Small buildings.                                                                    |
+| Five                | A side of a mountain.                                                               |
+
 ## "I Disbelieve!"
 Only vs. mental illusions. Roll [[Willpower]], five successes or more.
 
