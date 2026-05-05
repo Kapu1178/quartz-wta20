@@ -24,7 +24,7 @@ If you're trying to hit a target with an attack (sword, gun, fireball, etc.) the
 See [[Magickal Reference Charts]] for more information about difficulty.
 
 * Roll your Arete/Enlightenment versus [[Magickal Reference Charts#Base Casting Roll|appropriate difficulty]] (minimum difficulty is 3):
-* Add or subtract modifiers ([[Magickal Reference Charts#Magickal Difficulty Modifiers|maximum net modifier of +3/-3]])
+* Add or subtract modifiers (maximum net modifier of +3/-3)
 * If you need to hit your target, roll appropriate combat Traits.
 * Spend Quintessence and/or Willpower (if desired).
 * Check the number of your successes.
