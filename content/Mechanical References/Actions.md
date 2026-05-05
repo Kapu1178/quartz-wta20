@@ -1,20 +1,51 @@
 An "action" is specifically something performed by a character that may have an interesting outcome. Typically, speaking does not require an action. An action requires a roll when there is reasonable doubt the character could fail the action.
 
-### Summary
+## Summary
 
-| Action                | Example                               | Description                                                                                                                                      |
-| --------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Simple                | Dodging a sinkhole, sensing an ambush | Task is completed with one roll. The storyteller announces the difficulty and the players roll their dice pools. Automatic success is possible.  |
-| Extended              | Mountain climbing, researching        | Task is completed when a given number of successes are obtained, which may require more than one roll (which provides more chances of botching). |
-| Resisted              | Shadowing                             | A contest of skill between two individuals. They compare their number of successes; the character with the most successes wins.                  |
-| Extended and Resisted | Arm wrestling                         | As a resisted action; the contest requires a given number of successes and may take more than one turn to complete.                              |
+| Action                | Example                               | Description                                                                                                                                          |
+| --------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Simple                | Dodging a sinkhole, sensing an ambush | Task is completed with one roll. The storyteller announces the difficulty and the players roll their dice pools. [[#Automatic Success]] is possible. |
+| Extended              | Mountain climbing, researching        | Task is completed when a given number of successes are obtained, which may require more than one roll (which provides more chances of botching).     |
+| Resisted              | Shadowing                             | A contest of skill between two individuals. They compare their number of successes; the character with the most successes wins.                      |
+| Extended and Resisted | Arm wrestling                         | As a resisted action; the contest requires a given number of successes and may take more than one turn to complete.                                  |
 
+## Types of Actions
+### Automatic Actions
+These actions require no roll unless there is a complication such as a high stress situation.
+* Stand up from the ground when not being hindered.
+* Start a vehicle.
+* Move a certain distance (see [[Movement]]), characters may move half their running distance and perform another action without penalty.
+* Engaging in normal speech, writing a note, typing, or texting that could occur in a few seconds. If trying to convey detailed instructions, persuade someone, or make an artistic performance, a roll is likely required.
+* Grabbing readily available items or taking out instruments. Stored, bulky, delicate, or intricate items may take a roll or multiple turns to deploy.
+
+### Non-Automatic Actions
+Any action not covered by the other sections require a roll in most circumstances.
+* Attacking.
+* Defending (Actively defending, not to be confused with [[Combat#Soaking|Soaking]]).
+* Casting a [[Casting Magick|magickal Effect]].
+* Any other dramatic feat.
 
 ### Reflexive Actions
 An instinctual, low-duration action that does not require a roll and does not consume an action.
-* Soaking damage
-* Spending [[Rage]]
-* Spending [[Blood Pool]]
+* [[Combat#Soaking|Soaking]] damage.
+* Spending [[Rage]].
+* Spending [[Blood Pool]].
+
+### Movement
+A character may move the following distances in a turn. They may move up to half their normal running distance in a turn and then still act without penalty. Each yard beyond that removes a die from the character’s dice pool.
+
+| Movement Mode | Distance per Turn                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Walking       | 7 yards                                                                                                                  |
+| Jogging       | 12 + Dexterity yards                                                                                                     |
+| Run           | 20 + (3 x Dexterity) yards                                                                                               |
+| Swim          | 8 + Dexterity or 12 + Dexterity if skilled in swimming                                                                   |
+| Flying        | 10 to 20 yards                                                                                                           |
+| Climb         | Normal conditions: 10 feet per success  <br>Ideal conditions: 15-20 per success  <br>Poor conditions: 5 feet per success |
+
+A character may only move at full speed (run, swim, climb) for ten turns per point in Stamina.
+
+A character’s health caps their maximum movement rate. At Injured, a character may move at most half their normal rate (See [[Health]]). To exceed this, the character must roll the greater of Stamina or Willpower (difficulty 6 assumed) where success allows full movement for that turn. As a reminder, this roll will be modified per the character’s dice pool penalty associated with their health level. A botch indicates the body fails and the character may not move or the environment intercedes (the character trips).
 
 ## Ratings
 
