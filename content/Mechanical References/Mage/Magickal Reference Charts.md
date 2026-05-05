@@ -92,21 +92,21 @@
 | Six+      | Number of Successes x 2 | Storyteller's option |
 
 **Notes**
-*Damage* also reflects the number of health levels healed by the Life Sphere, or the points of Quintessence channeled by the Prime sphere.
-
-To preserve game balance, the Storyteller may choose to cap damage at 20 health levels (10 successes, or 9 successes for Forces Sphere attacks).
+* *Damage* also reflects the number of health levels healed by the Life Sphere, or the points of Quintessence channeled by the Prime sphere.
+* To preserve game balance, the Storyteller may choose to cap damage at 20 health levels (10 successes, or 9 successes for Forces Sphere attacks).
+* The Forces Sphere adds one automatic success to Damage. This is in addition to the normal successes rolled, so an Effect with 3 successes will deal 8 direct damage, as it's 3 successes + 1 from Forces.
 
 ## Magickal Damage
 
 | Damage Type | Origin                                                                                                                                                                                                      |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bashing     | Mind Sphere Effects.                                                                                                                                                                                        |
+| Bashing     | Mind Sphere Effects. Forces effects such as reducing the speed of a bullet.                                                                                                                                 |
 | Lethal      | Most other Sphere Effects.                                                                                                                                                                                  |
 | Aggravated  | Any sphere when charged with Prime 2 and a point of Quintessence.<br><br>Fire or electrical Forces Effects.<br><br>Vulgar Entropy, Life, or Prime-based Effects that directly disrupt the target's Pattern. |
 
 **Notes**
 * Correspondence and Time inflict no damage unless they're combined with other Spheres.
-* The Forces Sphere adds one automatic success to Damage.
+* The Forces Sphere adds one automatic success to Damage. This is in addition to the normal successes rolled, so an Effect with 3 successes will deal 8 direct damage, as it's 3 successes + 1 from Forces.
 * Entropy inflicts damage only through indirect attacks until Rank 4; after that, damage is Aggravated.
 
 ## Dividing Successes Rule (Optional)
