@@ -91,3 +91,21 @@ Mental attacks can be resisted, as shown above, but they cannot be soaked except
 
 ### Resisting Psychic Assaults
 Mind-control spells, mental commands, Social Conditioning, and so forth can be resisted by an unwilling target if she’s aware that she’s under attack. In such cases, a Willpower roll, difficulty 6, acts as the dodge for that assault, subtracting successes from the aggressor’s roll. If the character isn’t aware of that attack, however, she suffers the full Effect… which is the primary reason that Mind-savvy mages prefer to be subtle (“You have beautiful eyes…”) rather than overt (“You are in my power…”).
+
+## Magickal Violence
+Examples of Magickal Violence
+* **Violence as a Focus:** Employing the *Stone-Shattering Fist Strike* (a `Life 3 / Matter 3 / Entropy 1` Effect that uses Entropy to spot weak spots) would have the player declare he is using martial arts as his focus, and roll Arete. Let's assume he scores 4 successes. He then rolls `Dexterity + Martial Arts` to reflect the punch itself, scoring 2 successes. The damage comes from the Effect, netting [[Magickal Reference Charts#Base Damage or Duration|8 health levels of damage]], amplified to [[Magickal Reference Charts#Magickal Damage|Aggravated by the Life sphere]].
+* **Violence Enhances Magick:** If a player were to ignite their gloves with a mysterious vial and a lighter, they would first roll `Manipulation + Intimidation`. Three successes later, the player then uses their `Mind 2` Effect "Surrender or die". The Arete roll is normally [[Magickal Reference Charts#Base Casting Roll|difficulty 5]], but has been reduced by 2 due to the successes from the glove ignition (Arete rolls cannot be reduced below difficulty 3, that is why it is 3 instead of 2). The player scores 6 successes, and his target succumbs to the dread his Effect induced.
+* **Magick Enhances Violence:** The player opts to cast a coincidental `Entropy 1` Effect to spot a weakness in his target's defense. she rolls her Arete roll, netting 3 successes, reducing the next attack action's difficulty by 3. Her [[Combat#Punch|punch]] is rolled with `Dexterity + Brawl` at a reduced difficulty of 3. She scores 6 successes, so the resulting attack deals `Strength` base damage, with a dice pool of 5 rolled against difficulty 6 ([[Combat#Resolution]]) for a maximum potential damage of `Strength + 5`.
+
+### Violence Enhances Magick
+In this case, the mage commits an act of violence that assists an act of magick: the Infernalist stabs the sacrifice, the mad scientist activates the Doomsday Device, the shapechanger slashes the throat of a wolf and bathes herself in its blood in order to transform into a wolf herself. The act still provides a focus, but the magick *follows* the act.
+
+In game terms, the attack is rolled normally, and each Success on that roll lowers the difficulty of the subsequent Arete roll by -1 (up to a max. modifier of -3). 
+
+Unless the magick and attack involve a single activity (such as throwing a punch or firing a gun) an attack used to focus and enhance magick needs to be performed *before* the spell is cast. These require separate actions and can only be performed in the same round utilizing [[Actions#Multiple Actions|action splitting]] or multiple actions through an effect such as [[Spheres#Time|Time 3]].
+
+### Magick Enhances Violence
+By throwing a little extra power (or a *LOT* of extra power) behind a normal gunshot, punch, or dodge, the character can enhance its effectiveness. The player declares what she's doing; takes an action to cast the Effect; notes the number of successes; and then reduces the difficulty of the subsequent action roll by -1 for each success (up to a max. modifier of -3).
+
+Magick-Enhanced violence is most often Coincidental. If it looks impossible, then it's vulgar. 
