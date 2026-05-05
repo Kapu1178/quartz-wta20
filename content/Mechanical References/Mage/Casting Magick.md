@@ -37,9 +37,9 @@ The number of successes that you roll determines whether or not you succeed. If 
 * What sorts of results did your magick have? (Damage, Duration, apparent effects, etc.)
 * Did someone dodge, soak, resist, or use countermagick against your Effect? If so, remove the successes they rolled from your own successes.
 * Did you succeed? If so, determine its results. (Take Paradox if required.)
-* Did you fail? If so, Effect fizzles. (Take Paradox.)
+* Did you fail? If so, Effect fizzles. (Take Paradox if required.)
 * Did you botch? If so, take Paradox as described by the [[Magickal Reference Charts#Paradox Points Generated|Paradox Points Generated chart]]. 
-* Did you get more than five points of Paradox? If so, Storyteller may roll for backlash.
+* Did you get more than five points of Paradox? If so, Storyteller should roll for backlash.
 
 ## Range
 A typical Effect affects one target within the caster's clear sensory range without the use of Correspondence. If the spell is not targeted, such as an explosion or a storm, it reaches everyone within the area of effect.
