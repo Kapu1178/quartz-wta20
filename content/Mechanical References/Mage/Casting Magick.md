@@ -31,7 +31,7 @@ See [[Magickal Reference Charts]] for more information about difficulty.
 * Do you need to roll more successes?
 * Repeat for extended rituals/rolls.
 
-## Step 4: Results
+### Step 4: Results
 The number of successes that you roll determines whether or not you succeed. If you fall short of your goal, you may roll again on subsequent turns in order to gain more successes. (See [[#Rituals, Rolls, and Extended Successes]])
 
 * What sorts of results did your magick have? (Damage, Duration, apparent effects, etc.)
