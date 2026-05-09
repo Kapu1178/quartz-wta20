@@ -1,0 +1,5 @@
+Pattern Bleed is a phenomenon inflicted upon a mage whilst they maintain a magical effect in conflict with their natural pattern. This includes increasing stats or granting impossible traits such as gills or wings. Pattern Bleed is distinct from permanent Paradox, but it is not uncommon to have both at once. Pattern Bleed from stat changes can be avoided by exchanging stat points instead of outright increasing them. For example, losing a point of Strength for a point of Dexterity would not incur Pattern Bleed.
+
+Pattern Bleed only applies to Effects that last longer than one day. In addition, Pattern Bleed has no severity, it is a binary "has it" or "does not have it", the affliction does not stack.
+
+Each day a mage is afflicted with Pattern Bleed, they take one health level of unsoakable Lethal damage that cannot be healed until they are cured of Pattern Bleed. A mage may expend one point of Quintessence to avoid taking the damage that day. 
