@@ -109,3 +109,24 @@ Unless the magick and attack involve a single activity (such as throwing a punch
 By throwing a little extra power (or a *LOT* of extra power) behind a normal gunshot, punch, or dodge, the character can enhance its effectiveness. The player declares what she's doing; takes an action to cast the Effect; notes the number of successes; and then reduces the difficulty of the subsequent action roll by -1 for each success (up to a max. modifier of -3).
 
 Magick-Enhanced violence is most often Coincidental. If it looks impossible, then it's vulgar. 
+
+## Countermagick
+Magick-using characters can utilize their knowledge of the spheres to dodge or impair the outcome of an incoming Effect. 
+
+Countermagick is an [[Combat#Defending|defensive action]] and requires a full action to perform, potentially requiring aborting their planned action. A mage must have at least one dot in at least one of the spheres being used to create the attack. The mage makes an Arete roll at difficulty 7. For each success she scores, one success is deducted from the attacker's successes. If the incoming Effect's results were based on the [[Magickal Reference Charts#Magickal Feats]] chart, then the incoming spell is less effective than it would have otherwise been (see [[Magickal Reference Charts#Degrees of Success]]). If that attack depended upon a certain number of successes, the assault may fizzle completely.
+
+### Innate Countermagick
+Certain characters or materials possess innate countermagick. The Technocratic material known as Primium automatically provides a countermagick roll. A character or device with innate countermagick does not require an action to deploy it, as it is intrinsic to who or what they are.
+
+### Protective or Offensive Countermagick (Optional)
+Typically, countermagick only deals with attacks directed at the mage in question. However, a skillful mage can attempt to intercept an attack aimed at an ally. Doing so incurs all of the requirements of normal countermagick, with the addition of:
+
+* At least one dot in the Prime sphere.
+* One point of Quintessence.
+* +1 difficulty to the Arete roll.
+* The mage may attempt to reflect the assault back towards the attacker, doing so raises the difficulty by +2 instead of +1. If the mage opts for this, each success over the attacker's original roll acts as a success for sending it back towards them. For example, 4 successes scored against a 2 success attack inflicts 2 successes worth of damage or effect of the spell upon the attacker.
+
+### Anti-Magick (Optional)
+A common tactic amongst Technocrats uses the Prime sphere (or Primal Utility) to harden reality against a reality deviant's magick. Mystic mages can employ the same strategy, though it is much less common.
+
+Doing so requires a full action. The mage rolls her Prime rank as a dice pool at difficulty 8. Each success adds +1 difficulty to a mage attempting to cast an Effect. For each success, the mage deploying anti-magick must expend 1 point of Quintessence. 
